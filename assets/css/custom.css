@@ -1,0 +1,8 @@
+/* background login */
+input:hover {
+	transform: scale(1);
+}
+
+input {
+	animation: 1s;
+}
